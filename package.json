@@ -24,7 +24,7 @@
     "url": "https://github.com/Mirkadoi/koa-helmet"
   },
   "engines": {
-    "node": ">= 18.0.0"
+    "node": ">= 16.0.0"
   },
   "dependencies": {
     "helmet": "^7.0.0"
